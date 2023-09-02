@@ -1,0 +1,15 @@
+function props and default props are written at the end - news.js
+and function.
+
+news.js
+
+this.props - props
+async function -> async arrow conversion
+
+useEffect - used for didMount
+function should have a const keyword in them
+
+// this.setState({ loading: true }); - setLoading to change state
+    setLoading(true)
+
+remove this.state 
